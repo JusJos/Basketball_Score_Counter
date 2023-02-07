@@ -34,5 +34,4 @@ function midrangeGuest(){
 function longthreeGuest(){
     countGuest+=3
     scoreGuestEl.textContent=countGuest
-
 }
