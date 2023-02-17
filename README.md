@@ -1,5 +1,4 @@
 # Basketball_Score_Counter
-
 Quick start:
 
 ```
