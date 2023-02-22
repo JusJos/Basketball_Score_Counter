@@ -9,6 +9,7 @@ function freethrowHome(){
         scoreHomeEl.textContent=countHome
 }
 
+
 function midrangeHome(){
     countHome+=2
     scoreHomeEl.textContent=countHome
